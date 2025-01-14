@@ -1,4 +1,4 @@
-📷 Ekran Görüntüsü
+# 📷 Ekran Görüntüsü
 
  ![image](https://github.com/user-attachments/assets/0404b35e-05b2-4e54-ac34-a14ba0f87afd)
 
