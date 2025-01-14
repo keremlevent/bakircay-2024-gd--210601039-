@@ -34,7 +34,7 @@ Bu proje, Unity kullanılarak geliştirilen bir **Çift Eşleştirme Oyunu**dur.
 
 ### 🌐 WebGL Desteği
 - Oyun, WebGL platformunda çalışacak şekilde optimize edilmiştir ve tarayıcıda oynanabilir.
-
+- **WebGL Link:** https://keremlevent.github.io/Game_WebGL/
 ---
 
 ## 🚀 Kurulum ve Çalıştırma
