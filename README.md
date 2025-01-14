@@ -1,5 +1,8 @@
-# bakircay-2024-gd-<210601039>.
- 
+📷 Ekran Görüntüsü
+
+ ![image](https://github.com/user-attachments/assets/0404b35e-05b2-4e54-ac34-a14ba0f87afd)
+
+
 # 🎮 Unity Oyun Projesi: Çift Eşleştirme Oyunu
 
 Bu proje, Unity kullanılarak geliştirilen bir **Çift Eşleştirme Oyunu**dur. Oyuncular, nesneleri doğru yerleştirerek ve eşleştirerek puan kazanır. Oyun, sürükleme-bırakma mekaniği, dinamik animasyonlar, yetenek sistemleri ve görsel efektlerle zenginleştirilmiştir.
@@ -44,7 +47,7 @@ Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları taki
 1. **Unity Versiyonu:**
    - Proje Unity 2021.3.XX veya üstü ile uyumludur.
 
-2. **Proje Dosyalarını Klonlayın:**
-   ```bash
-   git clone https://github.com/kullaniciadi/proje-adi.git
-   cd proje-adi
+🛠️ Kullanılan Araçlar ve Teknolojiler
+Unity Engine: Oyun geliştirme platformu.
+DOTween: Animasyon ve tweening sistemi.
+C#: Oyun mantığı ve mekanikleri için kullanılan programlama dili.
